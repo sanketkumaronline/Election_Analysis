@@ -6,7 +6,7 @@
 I am assisting a Colorado Board of Elections employee in election audit of tabulated results for a US Congressional precinct in Colorado. The election data is provided in a CSV file with following columns:
 
 * Ballot ID
-* Country
+* County
 * Candidate
 
 ### Purpose
@@ -42,9 +42,9 @@ I am assisting a Colorado Board of Elections employee in election audit of tabul
     *Answer:* Given below is the breakdown of number and percentage of votes in each county.
 
     ```
-    Jefferson: 10.5% (38,855)
-    Denver: 82.8% (306,055)
-    Arapahoe: 6.7% (24,801)`
+    Jefferson: 38,855 votes (10.5% of total votes)
+    Denver: 306,055 votes (82.8% of total votes)
+    Arapahoe: 24,801 votes (6.7% of total votes)
     ```
 * Which county had the largest number of votes?
 
@@ -55,9 +55,9 @@ I am assisting a Colorado Board of Elections employee in election audit of tabul
     *Answer:* Please find below the number and percentage of votes each candidate received.
 
     ```
-    Charles Casper Stockham: 23.0% (85,213)
-    Diana DeGette: 73.8% (272,892)
-    Raymon Anthony Doane: 3.1% (11,606)
+    Charles Casper Stockham: 85,213 votes (23.0% of total votes)
+    Diana DeGette: 272,892 votes (73.8% of total votes)
+    Raymon Anthony Doane: 11,606 votes (3.1% of total votes)
     ```
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
