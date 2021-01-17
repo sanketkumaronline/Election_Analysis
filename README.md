@@ -2,7 +2,20 @@
 
 ## Overview of Election Audit
 
-## Election-Audit Results
+### Purpose
+I am assisting a Colorado Board of Elections employee in election audit of tabulated results for a US Congressional precinct in Colorado. Our task is to find:
+1. The total number votes cast in this congressional elections
+2. The total number of votes for each candidate
+3. The percentage of votes for each candidate
+4. Determine winner of the election based on popular vote
+5. Total number of votes for each county
+6. Percentage of votes for each county
+7. Determine county with largest turnout   
+
+### Resources
+- Data Source: election_results.csv
+- Software: Python 3.7.6; Visual Studia Code 1.52.1
+## Electon-Audit Results
 
 ### 1. How many votes were cast in this congressional election?
 Ans: The total number of votes cast in this congressional election is **369,711**.
