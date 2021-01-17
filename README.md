@@ -25,10 +25,12 @@ I am assisting a Colorado Board of Elections employee in election audit of tabul
 ## Electon-Audit Results
 
 ### Command Line Output
+
 ![terminal_output](./images/terminal_output.png)
 
 ### TXT File Output
-![notepad_outout](./images/notepad_output.png)
+
+![notepad_output](./images/notepad_output.png)
 
 * How many votes were cast in this congressional election?
    
