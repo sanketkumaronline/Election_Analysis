@@ -2,8 +2,15 @@
 
 ## Overview of Election Audit
 
+### Background
+I am assisting a Colorado Board of Elections employee in election audit of tabulated results for a US Congressional precinct in Colorado. The election data is provided in a CSV file with following columns:
+
+* Ballot ID
+* Country
+* Candidate
+
 ### Purpose
-I am assisting a Colorado Board of Elections employee in election audit of tabulated results for a US Congressional precinct in Colorado. Our task is to find:
+ Our task is to find:
 1. The total number votes cast in this congressional elections
 2. The total number of votes for each candidate
 3. The percentage of votes for each candidate
@@ -17,17 +24,21 @@ I am assisting a Colorado Board of Elections employee in election audit of tabul
 - Software: Python 3.7.6; Visual Studia Code 1.52.1
 ## Electon-Audit Results
 
-### 1. How many votes were cast in this congressional election?
-Ans: The total number of votes cast in this congressional election is **369,711**.
+* How many votes were cast in this congressional election?
 
-![total_votes](./images/total_votes.png)
-### 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
-Ans: Given below is the breakdown of number and percentage of votes in each county.
-* Jefferson : 38,855 votes (10.5% of total)
-* Denver : 306,055 votes (82.8% of total)
-* Arapahoe : 24,801 votes (6.7% of total)
+    `The total number of votes cast in this congressional election is **369,711**.`
 
-![county_votes](./images/county_votes.png)
+
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
+
+    Given below is the breakdown of number and percentage of votes in each county.
+
+    `Jefferson: 10.5% (38,855)`
+
+    `Denver: 82.8% (306,055)`
+
+    `Arapahoe: 6.7% (24,801)`
+
 ### 3. Which county had the largest number of votes?
 Ans: The county with largest number of votes is **Denver**.
 
@@ -46,4 +57,5 @@ Ans: The details of the winning candidates are:
 * Percentage of Votes : 73.8% 
 
 ![winning_candidate](./images/winning_candidate.png)
+
 ## Election-Audit Summary
