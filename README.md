@@ -76,7 +76,7 @@ This script can be used to analyze not only the current Congressional elections 
 
  1. The script can be used for *Senatorial Elections*. In this case, we will have data for  senatorial districts instead of congressional districts/precincts. However, the basic code will remain the same because the method used to determine the winner is same in both types of elections. I.e. based on popular votes. The script will still be able to count the number (and percentage) of votes for each candidate. Also, the script will be able to determine the counties or citites with hightest turnout. Only this case the number of counties in each senatorial district will be different from those in congressional district.
  
- Similarly, the script can be used for *Local Elections* as well. In this case, instad of counties, we will have zones. 
+    Similarly, the script can be used for *Local Elections* as well. In this case, instad of counties, we will have zones. 
 
  2. In an election, there are different types of *voting methods*. For e.g., in the Congressional Elections analyzed earlier, there were three voting methods: 
     * Mail-In Ballots 
