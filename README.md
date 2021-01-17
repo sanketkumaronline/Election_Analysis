@@ -26,11 +26,11 @@ I am assisting a Colorado Board of Elections employee in election audit of tabul
 
 ### Command Line Output
 
-![terminal_output](./images/terminal_output.png)
+![terminal_output](./images/terminal_output.PNG)
 
 ### TXT File Output
 
-![notepad_output](./images/notepad_output.png)
+![notepad_output](./images/notepad_output.PNG)
 
 * How many votes were cast in this congressional election?
    
