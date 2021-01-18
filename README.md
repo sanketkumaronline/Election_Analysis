@@ -3,14 +3,14 @@
 ## Overview of Election Audit
 
 ### Background
-I am assisting a Colorado Board of Elections employee in election audit of tabulated results for a US Congressional precinct in Colorado. The election data is provided in a CSV file with following columns:
+I am assisting a Colorado Board of Elections employee, Tom, in election audit of tabulated results for a US Congressional precinct in Colorado. The election data is provided in a CSV file with following columns:
 
 * Ballot ID
 * County
 * Candidate
 
 ### Purpose
- Our task is to find:
+ Our task is to report:
 1. The total number votes cast in this elections
 2. The total number of votes for each candidate
 3. The percentage of votes for each candidate
